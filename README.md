@@ -1,5 +1,6 @@
 # Control System Lectures
-![Pêndulo Inverso sobre um Carro](./assets/car_pendg.gif)
+
+<img src="/assets/car_pendg.gif" width="300" height="300"/>
 
 **DISCLAIMER**: *Este repositório foi feito para a comunidade Brasileira. Me ajude a melhorar esse material.
 Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas aqui.*
