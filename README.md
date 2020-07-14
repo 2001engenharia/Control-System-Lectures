@@ -1,6 +1,6 @@
 # Control System Lectures
 
-**DISCLAIMER**: *Este repositório foi feito para a comunidade de engenherandos do Brasil. Me ajude a melhorar esse material.
+**DISCLAIMER**: *Este repositório foi feito para a comunidade Brasileira. Me ajude a melhorar esse material.
 Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas aqui.*
 
 O objetivo é agregar conhecimento teórico e prático de Sistemas de Controle, o conteúdo presente neste material pode auxiliar alunos de graduação, engenheiros formados e alunos de pós graduação.
