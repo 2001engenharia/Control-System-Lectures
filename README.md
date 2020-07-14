@@ -10,7 +10,7 @@ Se possuir material interessante, por favor compartilhe com a comunidade. Estamo
 Lembrando que esse material é usado no curso de Sistema de Controle no canal do YouTube 2001 - Engenharia
 
 Se você gosta desse repositório e quer ajuda, considere apoiar o canal com qualquer quantia :)
-Se for possível utilize o PicPay, nele eu não pago taxas :), por enquanto eu uso o meu pessoal.
+Se for possível utilize o PicPay, nele eu não pago taxas :) (por enquanto eu estou utilizando o meu pessoal).
 
 [PicPay - @joaomh](https://picpay.me/joaomh)
 
