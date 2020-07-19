@@ -1,8 +1,7 @@
 # Control System Lectures
 ---
 
-<img src="/assets/car_pendg.gif" width="300" height="300"/>
-
+<center><img src='/assets/car_pendg.gif' width=300px></center>
 ---
 **DISCLAIMER**: *Este repositório foi feito para a comunidade Brasileira. Me ajude a melhorar esse material.
 Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas aqui.*
