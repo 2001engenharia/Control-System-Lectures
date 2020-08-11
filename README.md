@@ -24,12 +24,12 @@ Seja bem vindo :)
 
 
 <!-- toc -->
-  * [Notas de Aula - Sistema de Controle]()
-      * [Introdução]()
+  * [Notas de Aula - Sistema de Controle](https://github.com/2001engenharia/Control-System-Lectures/tree/master/src)
+      * [Introdução](https://github.com/2001engenharia/Control-System-Lectures/tree/master/src/01_intro)
       * [Sistemas Dinâmicos]()
       * [Transformada de Laplace]()
-      * []()
-      * []()
+      * [Estabilidade]()
+      * [Especificações de Desempenho]()
       
 ## Informações para Contato
 
