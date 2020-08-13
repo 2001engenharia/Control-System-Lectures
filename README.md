@@ -5,6 +5,8 @@
 
 ---
 
+[▶ Aulas de Sistema de Controle](https://www.youtube.com/playlist?list=PLE1UtdMhwaEqIztXW0BdBNdY4uebcUA2n)
+
 **DISCLAIMER**: *Este repositório foi feito para a comunidade Brasileira. Me ajude a melhorar esse material.
 Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas aqui.*
 
