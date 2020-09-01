@@ -17,7 +17,7 @@ Se possuir material interessante, por favor compartilhe com a comunidade. Estamo
 Lembrando que esse material é usado no curso de Sistema de Controle no canal do YouTube 2001 - Engenharia
 
 Se você gosta desse repositório e quer ajuda, considere apoiar o canal com qualquer quantia :)
-Na direita temos várias opções de suporte :)
+No cantinho na direita temos várias opções de suporte :)
 
 
 Seja bem vindo :)
@@ -27,11 +27,12 @@ Seja bem vindo :)
 
 <!-- toc -->
   * [Notas de Aula - Sistema de Controle](https://github.com/2001engenharia/Control-System-Lectures/tree/master/src)
-      * [Introdução](https://github.com/2001engenharia/Control-System-Lectures/tree/master/src/01_intro)
-      * [Sistemas Dinâmicos]()
-      * [Transformada de Laplace]()
-      * [Estabilidade]()
-      * [Especificações de Desempenho]()
+      * [Introdução](src/01_intro)
+      * [Sistemas Dinâmicos](src/02_dynamical_laplace)
+      * [Transformada de Laplace](src/_02_dynamical_laplace)
+      * [Estabilidade](src/03_stability_time_domain_specifications)
+      * [Especificações de Desempenho](src/03_stability_time_domain_specifications)
+      * [Critério de Routh](src/04_routh_criteria_controller)
       
 ## Informações para Contato
 
